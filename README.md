@@ -1,2 +1,2 @@
 # pygame
-learning pyjama
+Building a simple game using Pygame
